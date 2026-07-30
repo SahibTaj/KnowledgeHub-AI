@@ -1,0 +1,15 @@
+reports/
+my_chroma_db/
+
+venv/
+venvl/
+.venv/
+env/
+
+.env
+
+__pycache__/
+*.pyc
+
+.continue/
+.vscode/

@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-community
+sentence-transformers
+pypdf
+chromadb
+langchain_chroma
+groq
+openai
+fastapi
