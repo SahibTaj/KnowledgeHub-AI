@@ -8,3 +8,5 @@ langchain_chroma
 groq
 openai
 fastapi
+SQLAlchemy
+psycopg2-binary
